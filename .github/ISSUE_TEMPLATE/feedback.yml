@@ -14,7 +14,7 @@ body:
     attributes:
       label: Webpage URL
       description: "Webpage related to the feedback"
-      placeholder: " "
+      placeholder: "https://example.com/path"
   - type: textarea
     id: what-happened
     attributes:
