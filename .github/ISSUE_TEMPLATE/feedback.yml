@@ -9,6 +9,12 @@ body:
     attributes:
       value: |
         Thanks for taking the time to provide feedback!
+  - type: input
+    id: url
+    attributes:
+      label: Webpage URL
+      description: "Webpage related to the feedback"
+      placeholder: " "
   - type: textarea
     id: what-happened
     attributes:
